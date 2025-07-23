@@ -1,4 +1,7 @@
 build
 dist
+node_modules
 .vscode
 **/obj
+**/bin
+package-lock.json

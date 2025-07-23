@@ -10,7 +10,7 @@
 
 - npm install
 - dotnet tool install
-- dotnet restore
+- dotnet restore src/App/App.fsproj
 
 ### Run Demoe
 
